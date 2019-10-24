@@ -3,7 +3,7 @@ title: "Tree Transformer: Integrating Tree Structures into Self-Attention"
 collection: publications
 permalink: /publication/TreeTransformer
 excerpt: 
-year: 2019
+date: 2019-09-03
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/abs/1909.06639'
 citation: 
