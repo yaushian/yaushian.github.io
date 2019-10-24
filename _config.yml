@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Yaushian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Natural Language Understanding, Machine Learning, Deep Learning"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_sURVUgAAAAJ&hl=zh-TW&authuser=1"
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yaushian"
+  github           : "yaushian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
