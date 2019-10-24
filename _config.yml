@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Taiwan, Taipei"
-title                    : "Yau-shian Wang's Website"
+title                    : "Yau-shian Wang"
 title_separator          : "-"
 name                     : &name "Yau-shian Wang"
 description              : &description "personal description"
