@@ -11,4 +11,4 @@ Hi, nice to meet you. I am Yau-shian Wang(王耀賢). I just completd my master 
 
 My research interests are deep learning/machine learning and their applications in natural language processing. My recent research focuses on unsupervised text understanding which is mainly about extracting the underlying structures and knowledge from texts or text generation. 
 
-My full CV: [here](<a href="files/CV_yaushian.pdf" target="_blank">pdf</a>).
+My full CV: (<a href="files/CV_yaushian.pdf" target="_blank">pdf</a>).
