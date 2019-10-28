@@ -9,6 +9,6 @@ redirect_from:
 ---
 Hi, nice to meet you. I am Yau-shian Wang(王耀賢). I just completed my master study under supervision of [Dr.Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) and [Dr.Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) at National Taiwan University.
 
-My research interests are deep learning/machine learning and their applications in natural language processing. My recent research focuses on unsupervised text understanding which is mainly about extracting the underlying structures and knowledge from texts or unsupervised text generation. 
+My research interests are deep learning/machine learning and their applications in natural language processing. My recent research focuses on unsupervised text understanding and generation which are mainly about extracting the underlying structures and knowledge of texts. 
 
 My full CV: (<a href="files/CV_yaushian.pdf" target="_blank">pdf</a>).
